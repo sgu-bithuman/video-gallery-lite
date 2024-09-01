@@ -29,7 +29,7 @@ https://sgu-bithuman.github.io/video-gallery/
 
 2. Navigate to the project directory:
    ```
-   cd video-gallery
+   cd video-gallery-lite
    ```
 
 3. Install dependencies:
