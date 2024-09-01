@@ -24,7 +24,7 @@ https://sgu-bithuman.github.io/video-gallery/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/sgu-bithuman/video-gallery.git
+   git clone https://github.com/sgu-bithuman/video-gallery-lite.git
    ```
 
 2. Navigate to the project directory:
