@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+/* Remove the following styles if they exist */
+/* 
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+*/
+
+main {
+  padding: 20px;
+}
