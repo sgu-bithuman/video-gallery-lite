@@ -58,6 +58,7 @@ https://sgu-bithuman.github.io/video-gallery/
 - React
 - CSS3
 - HTML5
+- Cursor AI
 
 ## Contributing
 
