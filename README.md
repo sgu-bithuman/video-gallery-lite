@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - React Masonry CSS for the masonry layout
 - Font Awesome for icons
 - Inspired by https://multi-video-player.surge.sh/
-- Made 100% by Cusor AI
+- Made 100% by Cusor AI (including this README.md)
