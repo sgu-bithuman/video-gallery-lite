@@ -2,7 +2,7 @@
 
 ## Description
 
-This Video Gallery is a dynamic, interactive web application built with React. It allows users to upload, view, and manage their video collection in various layouts. The application features a responsive design, drag-and-drop functionality, and multiple viewing modes to enhance the user experience. Click video below for a quick demo:
+100% made using Cursor AI. This Video Gallery is a dynamic, interactive web application built with React. It allows users to upload, view, and manage their video collection in various layouts. The application features a responsive design, drag-and-drop functionality, and multiple viewing modes to enhance the user experience. Click video below for a quick demo:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D2UGrOuRSZo/0.jpg)](https://www.youtube.com/watch?v=D2UGrOuRSZo)
 
